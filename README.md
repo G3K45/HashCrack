@@ -51,3 +51,15 @@ cd HashCrack
 pip3 install -r requirements.txt
 python3 hashcrack.py
 ```
+
+Installation on Windows
+
+1.Install python3, pip3 and git
+
+2.Use cmd
+```bash
+git clone https://github.com/G3K45/HashCrack.git
+cd HashCrack
+pip3 install -r requirements.txt
+python3 hashcrack.py
+```
