@@ -65,4 +65,4 @@ python3 hashcrack.py
 ```
 
 # Images of the tool
-![Image of HS](https://ibb.com/TYvQz5P/Windows-Terminal-jQbB-F6u9ht.png)
+![Image of HS](https://ibb.com/TYvQz5P/Image5.png)
