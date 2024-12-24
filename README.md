@@ -63,3 +63,6 @@ cd HashCrack
 pip3 install -r requirements.txt
 python3 hashcrack.py
 ```
+
+# Images of the tool
+![Image of HS](https://ibb.com/S5skqpV)
