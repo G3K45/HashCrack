@@ -64,7 +64,8 @@ pip3 install -r requirements.txt
 python3 hashcrack.py
 ```
 
-#Installation on BSD
+Installation on BSD
+
 FreeBSD/DragonFly BSD:
 ```bash
 sudo pkg install python3 py311-pip git
