@@ -1,7 +1,7 @@
 # HashCrack
 HASHCRACK or HashCracker is a python based software that cracks different types of hashes.
 
-It can be used in Windows,Linux(tested),MacOS and BSD(not tested)
+It can be used in Windows,Linux,BSD,Termux(tested) and MacOS(not tested)
 
 # Installation
 Installation on Linux:
@@ -39,7 +39,7 @@ Installation on Termux
 pkg install git python3 python-pip
 git clone https://github.com/G3K45/HashCrack.git
 cd HashCrack
-pip3 install -r requirements.txt --break-system-packages
+pip3 install -r requirements.txt
 python3 hashcrack.py
 ```
 
@@ -58,6 +58,16 @@ Installation on Windows
 
 2.Use cmd
 ```bash
+git clone https://github.com/G3K45/HashCrack.git
+cd HashCrack
+pip3 install -r requirements.txt
+python3 hashcrack.py
+```
+
+#Installation on BSD
+FreeBSD/DragonFly BSD:
+```bash
+sudo pkg install python3 py311-pip git
 git clone https://github.com/G3K45/HashCrack.git
 cd HashCrack
 pip3 install -r requirements.txt
